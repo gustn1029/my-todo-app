@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^4.41.3",
     "classnames": "^2.5.1",
     "framer-motion": "^10.16.16",
     "next": "14.0.4",
